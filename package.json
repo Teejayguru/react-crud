@@ -1,0 +1,30 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "A professional CRUD application built with React, Vite, and Node.js backend (MySQL)",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teejayguru/react-crud.git"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "crud",
+    "mysql",
+    "nodejs",
+    "express",
+    "employee-management"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start-server": "node server/index.js"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^6.3.5"
+  }
+}
